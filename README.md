@@ -9,6 +9,6 @@ Skills: JAVA / JS
 
 - 🔭 I’m currently working on CrashFilter 
 - 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me: Discord | markiert#3832 
+- 📫 How to reach me: Discord | ItemStackArray#3832 
 - 😄 Pronouns: me/ow 
 - ⚡ Fun fact: I've created SilentMC
