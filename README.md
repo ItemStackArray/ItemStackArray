@@ -3,7 +3,6 @@
 ![I am a Java developer who mostly works with packets.](https://cdn.discordapp.com/attachments/1083126396592869407/1091476332883497112/putty.gif)
 
 I'm a Minecraft Security Developer.
-I'm currently learning JavaScript to improve my skills.
 
 Skills: JAVA
 
